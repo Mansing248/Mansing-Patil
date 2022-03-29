@@ -1,7 +1,7 @@
 body {
   background-color: #E3CAA5;
   background-image: url('../img/snap2022-03-09-08-28-30.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-attachment: fixed;
   background-size: 100%;
 }
